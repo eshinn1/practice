@@ -1,2 +1,2 @@
-# practice
- helloworld
+# README
+This is my first repository!
